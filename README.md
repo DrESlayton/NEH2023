@@ -1,18 +1,18 @@
-# ** Application for NEH Humanities Data Scientist **
+# Application for NEH Humanities Data Scientist 
 
-### ** Introduction to Application **
-
-
-
-
-## ** Open Access for Open Humanities **
+### Introduction to Application
 
 
 
 
+## Open Access for Open Humanities
 
 
-### ** Resources and Citations **
+
+
+
+
+### Resources and Citations
 
  
 
