@@ -2,13 +2,13 @@
 
 ### Introduction to Application
 
-For Decades the National Endowment for the Humanities has focused on supporting research that brings humanistic perspectives to 
+For Decades the National Endowment for the Humanities (NEH) has focused on supporting research that brings humanistic perspectives to 
  
 
 ### Open Access for Open Humanities
 
 
-
+The White House has declared 2023 to be the 'Year of Open Science'. With an increasing interest in making informaiton open, accessible, and resuable to both further the process of layred research and to make the most of congresionally appointed funds, it is clear understanding how the projects funded by the NEH 
 
 ### Open Data and Humanities for Communities 
 
@@ -26,16 +26,23 @@ For Decades the National Endowment for the Humanities has focused on supporting 
 
 
 
-As the reviwed NEH projects are all dependent on funding provided by congress, congressional audiences may also be inerterested 
+A congressional audiences may also be inerterested in evaluating how to better understand the geographic distribution of funded projects as well as to engage with existing NEH projects that are already focused on open data that have relevancy to their constituents. 
 
 
 ### Exploration of the NEH Data 
 
-In order to conduct a breif evaluation NEH project data evalaute if any focused on engaging communities through the use of 'Open' resources, I wanted to isolate specifics related to the terms 'Open' 
+In order to conduct a breif evaluation NEH project data evalaute if any focused on engaging communities through the use of 'Open' resources, I wanted to isolate specifics related to the terms 'Open', 'Access', and 'Public'. 
 
-Challanges in evaluating the open nature of these projects comes in the lack of available project description from the NEH_Grants1990s file. However, we may assume that due to the earlier record of these grant awards - being assigned not later than 2000 and finished no later than 2013, that not all grants were carried out during a period with the same level of supports for open access to materials and access to digital tools or digital literacies. 
+Interestingly, when we compare the focus of project descriptions to other concepts, such as community engagment by looking for terms such as community, communities, stakeholders 
 
-Though this project begins to explore the relationship between Open Data, Open Access Resources, and community interests existing in NEH projects, it would be impossible to conduct a full evaluation in the short timeframe provided for this work. 
+![Bar Chart showing count of mentions in 2010 to 2020s NEH data of Open, Access, Public, Stakeholder, Community / Communities](Visualizations/Word_Frequency_bar_chart.jpg)
+
+Though this project begins to explore the relationship between Open Data, Open Access Resources, and community interests existing in NEH projects, it would be impossible to conduct a full evaluation in the short timeframe provided for this work. Given more time with this data, an broader assessment of this information could unlock the presence of themes related to Diversity, Equity, Inclusion, and Accessibility in ways that were difficult quickly scope due to either missing or messy data. 
+
+Challanges in evaluating the open nature of these projects comes in the lack of available project description from the NEH_Grants1990s file. However, we may assume that due to the earlier record of these grant awards - being assigned not later than 2000 and finished no later than 2013, that not all grants were carried out during a period with the same level of supports for open access to materials and access to digital tools or digital literacies. To keep with the theme of comparing open scholarship to community engagment and access, and to ensure fidelity across the data, this effort focused on projects that were funded post 2010. 
+
+There were also some chalanges when searching for key terms in the data related to the need for extensive data cleaning. In addition, some key term seperation from context in searches made it difficult to fully evaluate the full context of the proposals. For example, when regarding the graph above, it is also important to take into account that while African American and Black were terms searched, Black was only selected in cases where the key find clearly related to ethnicity. More scrutiny of the data is needed to fully evaluate the level of focus given to Balck American or African American populations within NEH projects.  
+
 
 
 ### Code and Processess Used In This Project 
@@ -72,7 +79,7 @@ The data for this project can be accessed through the github page assocaited wit
 
 Data will be maintained for a minimum of one year post the submision deadline (September 16th, 2023). 
 
-File types assocaietd with this project include R files (produced using RStudio 2022.07.1+554) and .tbx files for use in Tabealu software (produced with Tableau 2022.2), as well as .csv and .txt files. 
+File types assocaietd with this project include R files (produced using RStudio 2022.07.1+554) and .tbx files for use in Tabealu software (produced with Tableau 2022.2), as well as .csv, .txt, .jpg, and .svg files. 
 
 
 
