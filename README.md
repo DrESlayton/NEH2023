@@ -1,18 +1,18 @@
-#H1 **bold text** Application for NEH Humanities Data Scientist
+# **bold text** Application for NEH Humanities Data Scientist
 
-### H3 Introduction to Application 
-
-
-
-
-## H2 Open Access for Open Humanities 
+### Introduction to Application 
 
 
 
 
+## Open Access for Open Humanities 
 
 
-### H3 **bold text** Resources and Citations 
+
+
+
+
+### **bold text** Resources and Citations 
 
  
 
