@@ -35,9 +35,22 @@ As such, though the data provided here is all publically avilable, we must be ca
 
 ### Connecting Projects to Congressional Interests 
 
-Understanding the impact of humanties and making that research open also involves breaking down barriers to access, whether they are geographical, economic, or educational, so that individuals from all walks of life can engage with humanties focused projects and programs. 
+Understanding the impact of humanties and making that research open also involves breaking down barriers to access, whether they are geographical, economic, or educational, so that individuals from all walks of life can engage with humanties focused projects and programs. Additionally, both citizens and USA repersenatives may be inerterested in evaluating how to better understand the geographic distribution of funded projects as well as to engage with existing NEH projects that are already focused on open data that have relevancy to their constituents. 
 
-A congressional audiences may also be inerterested in evaluating how to better understand the geographic distribution of funded projects as well as to engage with existing NEH projects that are already focused on open data that have relevancy to their constituents. 
+To connect these questions to the our focus on open access to products and data produced by NEH projects, the following interactive visualization explores both the location of projects awareded but also links through a hover feature informaiton on the description and award type. In addition to showcasing the description, the hover feature will also indicate whether the terms (or varaitions of) 'community', 'open', or 'access' apear in the description. This will also hopefully help to quickly define which projects are on track to meet open access and informaiton sharing goals, and which current projects are in need of support. 
+
+DASHBOARD 1
+
+In order to delve into further into the question of how much funding is shared by county across various project types through different devisions of the NEH, an additional interactive map has been produced to allow for side by side comparison and click through options for those citizens or repersenatives interested in honing in on their district. 
+
+
+DASHBOARD 2
+
+
+The above dashboard can be compared againt the below interactive dashboard, which shows the location of each project and through the interactive hover feature offers the name of the county the project is located in and the addition of wether the project description includes the core terms of 'community', 'open', or 'access'. By shifting between the two graphs to ascertain specifics of projects within each county it may become easier to idetify trends based on geographic location as well, enabeling the NEH to spot counties which are exceeding expectations in making their work accessible to the public. 
+
+
+DASHBOARD 3
 
 
 ### Exploration of the NEH Data 
