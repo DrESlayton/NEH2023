@@ -70,13 +70,15 @@ References to Code Resources:
 
 All the graphs (but the wordcloud) linked above were made using the tool Tableau. A short description of the process for making these graphs is shared blow:
 
-(Graph 1) Bar Chart built from the count (rows) of dimension data taken from Term labels (collumn) 'community/communities', 'public', 'access', 'open', 'engagment', 'stakeholder'. 
+(Graph 1) Small multiples line graph of the number of dimenson data NEH Product types (rows) Open Access, Articles, Blog Posts, and Web Resources from 2010 to 2023 expressed in years (columns).
 
-(Graph 2) 
+(Graph 2) Bar Chart built from the meaure data count (rows) of dimension data taken from Term labels (collumn) 'community/communities', 'public', 'access', 'open', 'engagment', 'stakeholder'. 
 
-(Graph 3)
+(Graph 3)Interactive dashaboard showcasing the location of projects (measure data, geographic longitude and latitude data) filtered by dimension data year and also applicant type (dimension data). 
 
-(Graph 4) Heat Table showing counts of Term lebels (rows) by year (collumns) for 'community/communities', 'public', 'access', 'open', 'engagment', 'stakeholder', 'Native American', 'African American / Black', 'Hispanic / Latinx'. 
+(Graph 4) 
+
+(Graph 5) Heat Table showing counts of dimension data Term lebels (rows) by measure data year (collumns) for 'community/communities', 'public', 'access', 'open', 'engagment', 'stakeholder', 'Native American', 'African American / Black', 'Hispanic / Latinx'. 
 
 
 In developing visulizations, sometimes even if a software ir propreitary it can be the right one to use due to the target audiences familairty with the tool. In the past several years, Tableau has pushed into the public sector, and many government offices use this tool to viuslize their data. Due to the publics familairty with the visual framework and style lense of Tableau, as well as its advanced capability for interactive graphs - I choose to use this tool over open source options like R ggplot2 or R Leaflet. 
