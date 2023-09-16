@@ -94,7 +94,9 @@ The data for this project can be accessed through the github page assocaited wit
 
 Data will be maintained for a minimum of one year post the submision deadline (September 16th, 2023). 
 
-File types assocaietd with this project include R files (produced using RStudio 2022.07.1+554) and .tbx files for use in Tabealu software (produced with Tableau 2022.2), as well as .csv, .txt, .jpg, and .svg files. 
 
+rc="https://public.tableau.com/app/profile/emma.slayton/viz/Slayton_NEH_2/NEHProjects?publish=yes"
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/emma.slayton/viz/Slayton_NEH_2/NEHProjects?publish=yes" width = '650' height = '450' scrolling='yes' ></iframe>
 
 
