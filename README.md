@@ -43,6 +43,7 @@ DASHBOARD 1
 
 In order to delve into further into the question of how much funding is shared by county across various project types through different devisions of the NEH, an additional interactive map has been produced to allow for side by side comparison and click through options for those citizens or repersenatives interested in honing in on their district. 
 
+<div class='tableauPlaceholder' id='viz1694836044065' style='position: relative'><noscript><a href='#'><img alt='  NEH ProjectsLocation of Each NEH Funded Project Between 2010 and 2023 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sl&#47;Slayton_NEH_3&#47;NEHProjects_1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Slayton_NEH_3&#47;NEHProjects_1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sl&#47;Slayton_NEH_3&#47;NEHProjects_1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>            
 
 DASHBOARD 2
 
@@ -89,9 +90,11 @@ All the graphs (but the wordcloud) linked above were made using the tool Tableau
 
 (Graph 3)Interactive dashaboard showcasing the location of projects (measure data, geographic longitude and latitude data) filtered by dimension data year and also applicant type (dimension data). 
 
-(Graph 4) 
+(Graph 4) A interactive dashboard with side by side maps showcasing the location of counties with projects funded, either in original funding awards or supplimental funding awards. These graphs also share a filter which enables drop down selection of NEH Devision Type as well as to scroll through funding year by year. 
 
-(Graph 5) Heat Table showing counts of dimension data Term lebels (rows) by measure data year (collumns) for 'community/communities', 'public', 'access', 'open', 'engagment', 'stakeholder', 'Native American', 'African American / Black', 'Hispanic / Latinx'. 
+(Graph 5)Interactive map that showcases the location of projects (dimension data) as well as details in hover feature the county in which the project is located as well as dimension data taken from Term labels 'community/communities', 'access', 'open'. 
+
+(Graph 6) Heat Table showing counts of dimension data Term lebels (rows) by measure data year (collumns) for 'community/communities', 'public', 'access', 'open', 'engagment', 'stakeholder', 'Native American', 'African American / Black', 'Hispanic / Latinx'. 
 
 
 In developing visulizations, sometimes even if a software ir propreitary it can be the right one to use due to the target audiences familairty with the tool. In the past several years, Tableau has pushed into the public sector, and many government offices use this tool to viuslize their data. Due to the publics familairty with the visual framework and style lense of Tableau, as well as its advanced capability for interactive graphs - I choose to use this tool over open source options like R ggplot2 or R Leaflet. 
